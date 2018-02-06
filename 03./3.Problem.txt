@@ -1,1 +1,0 @@
-3. Write a query to display three numbers in three columns.
